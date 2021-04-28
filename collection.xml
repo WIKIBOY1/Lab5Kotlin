@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flats>
+    <flat>
+        <name>что-то</name>
+        <coordinates>
+            <x>1.0</x>
+            <y>1.0</y>
+        </coordinates>
+        <creationDate>2021-03-19T21:05:07.952</creationDate>
+        <area>20.0</area>
+        <numberOfRooms>10</numberOfRooms>
+        <furnish>DESIGNER</furnish>
+        <view>NORMAL</view>
+        <transport>NORMAL</transport>
+        <house>
+            <nameHouse>дом</nameHouse>
+            <year>2010</year>
+            <numberOfFlatsOnFloor>1</numberOfFlatsOnFloor>
+        </house>
+    </flat>
+    <flat>
+        <name>МСГ</name>
+        <coordinates>
+            <x>100.0</x>
+            <y>1000.0</y>
+        </coordinates>
+        <creationDate>2021-04-04T19:37:14.901</creationDate>
+        <area>1.0</area>
+        <numberOfRooms>1</numberOfRooms>
+        <furnish>LITTLE</furnish>
+        <view>TERRIBLE</view>
+        <transport>LITTLE</transport>
+    </flat>
+</flats>
